@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT crystal_2029.wsgi:application
